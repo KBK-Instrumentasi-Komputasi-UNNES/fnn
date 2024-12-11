@@ -1,25 +1,3 @@
-https://github.com/DigitalCodesign/MentorBit-1Rele
-https://github.com/DigitalCodesign/MentorBit-2Rele
-https://github.com/DigitalCodesign/MentorBit-3LED
-https://github.com/DigitalCodesign/MentorBit-BMP280
-https://github.com/DigitalCodesign/MentorBit-DetectorIR
-https://github.com/DigitalCodesign/MentorBit-DetectorLluvia
-https://github.com/DigitalCodesign/MentorBit-DHT11
-https://github.com/DigitalCodesign/MentorBit-DHT22
-https://github.com/DigitalCodesign/MentorBit-Encoder
-https://github.com/DigitalCodesign/MentorBit-Expander
-https://github.com/DigitalCodesign/MentorBit-LDR
-https://github.com/DigitalCodesign/MentorBit-MatrizPulsadores
-https://github.com/DigitalCodesign/MentorBit-MQ
-https://github.com/DigitalCodesign/MentorBit-PIR
-https://github.com/DigitalCodesign/MentorBit-PoteLineal
-https://github.com/DigitalCodesign/MentorBit-Potenciometro
-https://github.com/DigitalCodesign/MentorBit-PoteRueda
-https://github.com/DigitalCodesign/MentorBit-Pulsadores
-https://github.com/DigitalCodesign/MentorBit-RGB
-https://github.com/DigitalCodesign/MentorBit-Ultrasonidos
-https://github.com/DigitalCodesign/MentorBit-Zumbador
-https://github.com/DigitalCodesign/Puertas-Logicas-Plugin
 https://github.com/median-dispersion/Non-Blocking-Melody
 https://github.com/jobitjoseph/ESPWebFileManager
 https://github.com/playfultechnology/PN5180
@@ -3581,6 +3559,7 @@ https://github.com/KROIA/L298N_MotorDriver
 https://github.com/krpc/krpc-arduino
 https://github.com/krzychb/DimSwitch
 https://github.com/krzychb/EspSaveCrash
+https://github.com/kskiunnes/fnn
 https://github.com/ktauchathuranga/MorseEncoder
 https://github.com/ktsai69/Vishay_VCNL4200
 https://github.com/KuangLei/fDigitsSegtPin
@@ -5574,7 +5553,6 @@ https://github.com/rppicomidi/usb_midi_host
 https://github.com/rstephan/ArtnetWifi
 https://github.com/rtdgreg/TWI_GPS
 https://github.com/rtnate/arduino-BasicTimer
-https://github.com/rtnate/Arduino-DS1881_2
 https://github.com/rudydelorenzo/ELMo
 https://github.com/Rufus31415/Sharer
 https://github.com/ruiseixasm/Robust-EEPROM
@@ -5766,7 +5744,6 @@ https://github.com/semcneil/ADS7142_Arduino_Library
 https://github.com/semcneil/PCA95x5
 https://github.com/sensboston/esp32_moga
 https://github.com/sensebox/senseBoxBLE
-https://github.com/sensebox/SolarChargerSB041
 https://github.com/Sensirion/arduino-ble-gadget
 https://github.com/sensirion/arduino-core
 https://github.com/Sensirion/arduino-ess
@@ -7598,4 +7575,3 @@ https://github.com/humacompany/Huma_Buttons
 https://github.com/KriBielinski/PrecDueTimer
 https://github.com/KriBielinski/InterruptStepper
 https://github.com/ripred/CodeSizeProfiler
-
