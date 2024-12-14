@@ -1,5 +1,6 @@
 https://github.com/median-dispersion/Non-Blocking-Melody
 https://github.com/jobitjoseph/ESPWebFileManager
+https://github.com/KBK-Instrumentasi-Komputasi-UNNES/fnn
 https://github.com/playfultechnology/PN5180
 https://github.com/baaaaan1/BuzzerManager
 https://github.com/baaaaan1/EEPROMHandler
