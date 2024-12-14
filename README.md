@@ -1,6 +1,6 @@
-#+TITLE: FNN
-#+AUTHOR: GALIH RIDHO UTOMO
-#+EMAIL: kskiunnes@gmail.com
+# +TITLE: FNN
+# +AUTHOR: GALIH RIDHO UTOMO
+# +EMAIL: kskiunnes@gmail.com
 
 * Library Information
   - name=Fnn
